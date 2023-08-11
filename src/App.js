@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import Cart from './pages/cart';
 // import Navbar from './components/Navbar';
 import Login from './components/Login';
-import Products from './components/Products';
+// import Products from './components/Products';
 import Logout from './components/Logout';
 
 function App() {
