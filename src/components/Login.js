@@ -66,7 +66,7 @@ const Login = () => {
   return (
     <div className="flex justify-center items-center h-screen">
       <form className="w-1/3 bg-white p-6 rounded shadow-lg">
-        <h2 className="text-2xl font-bold mb-4">Registration</h2>
+        <h2 className="text-2xl font-bold mb-4">Login Please</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}
         <div className="mb-4">
           <label className="block text-gray-700 font-bold mb-2" htmlFor="username">
