@@ -14,6 +14,8 @@
 
 # same method apply for productSlice.js page
 
+# in productSlice.js i use 3rd party api with the help of thunk library
+
 # all the pages value, we kept in store.js to configure the store
 
 <!-- -------------------Product.js-------------------------- -->
@@ -33,3 +35,7 @@
 # I imported link function with the help of react-router-dom
 
 # After clicking to click here, you will reach again to the login page
+
+<!-- -----------------tailwindCss---------------------- -->
+
+# for styling i use tailwind css pacakeges
